@@ -1,6 +1,7 @@
 # opposite-neurons
 
 custom_plot.py is used in all the jupyter notebooks, so you will need to download it as well if you intend to run any of the jupyter notebooks.  
+The folder Initialization contains all the initial weights and stimulus used for generating the plots in the paper.  
 Running opposite_neurons_paper.ipynb will generate all the plots in the paper.  
 Running opposite_neurons_paper.ipynb will generate all the plots in the SI of the paper.  
 If you want to extend the project here, best place to start will be opposite_neurons.ipynb.  
